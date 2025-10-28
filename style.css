@@ -6,6 +6,13 @@
   position: relative;
 }
 
+/* Hide Cayman’s default header title + tagline */
+.page-header .project-name,
+.page-header .project-tagline {
+  display: none !important;
+}
+
+
 /* Your custom content inside header */
 .custom-header {
   color: white;
