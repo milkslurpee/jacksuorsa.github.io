@@ -2,7 +2,7 @@
 
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com) | 📞 559-756-3556  
 🎓 **Computer Science Student at Brigham Young University (Class of 2026)**  
-💻 **Software Developer | Network & Systems Enthusiast | Problem Solver**
+💻 **Software Developer | Network & Systems Enthusiast | Professional Nerd
 
 ---
 
@@ -34,7 +34,8 @@ React · Node.js · Docker · Nginx · Reverse Proxies · DNS Configuration
 **BYU Coursework & Projects (Sept 2020 – Apr 2026)**  
 - Developed multiple projects using **C++, Python, Java, and JavaScript**  
 - Built full-stack web applications with **React** and **Node.js**  
-  - Example: [Clinquant Dieffenbachia](https://clinquant-dieffenbachia-fc06cc.netlify.app/)  
+  - Example: [Sweet Tooth](https://clinquant-dieffenbachia-fc06cc.netlify.app/)
+  - Example: [Pirates of the Cul-de-sac](https://startup.piratesoftheculdesac.click/)
 - Collaborated on group projects emphasizing clean code, documentation, and version control with **Git**
 
 ---
