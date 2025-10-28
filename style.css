@@ -1,30 +1,34 @@
-/* Custom blue header */
-.custom-header {
-  background-color: #0b3d91; /* Blue color */
-  color: white;
-  padding: 2rem;
+/* Override Cayman's header */
+.page-header {
+  background-color: #0b3d91 !important; /* Your blue */
+  padding: 3rem 1rem;
   text-align: center;
+  position: relative;
 }
 
-/* Flex container for image + text */
+/* Your custom content inside header */
+.custom-header {
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+}
+
 .header-content {
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   gap: 20px;
   flex-wrap: wrap;
 }
 
-/* Profile picture */
 .profile-pic {
   width: 120px;
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
 
-/* Header text */
 .header-text h1 {
   margin: 0;
   font-size: 2rem;
@@ -35,18 +39,10 @@
   font-size: 1rem;
 }
 
-/* Badge container */
-.header-badges {
-  margin-top: 1rem;
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-}
-
-/* Make it responsive */
 @media (max-width: 600px) {
   .header-content {
     flex-direction: column;
     gap: 10px;
   }
 }
+
