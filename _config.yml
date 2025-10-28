@@ -1,7 +1,7 @@
 # Site Info
-title: ""  # leave blank so the theme doesn't repeat your name
+title: "👋 Hi, I'm Jack Suorsa"  # leave blank so the theme doesn't repeat your name
 description: "Software Developer | Computer Science @ BYU | Networking & Systems Enthusiast"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-urban
 show_downloads: false
 
 # Optional social links (for GitHub Pages theme features)
