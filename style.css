@@ -1,10 +1,25 @@
-/* Make Cayman header your custom blue */
-.page-header {
-  background-color: #0b3d91 !important; /* Custom blue */
-  padding: 3rem 1rem;
-  text-align: center;
-  color: white;
+/* Hide the default site title and tagline */
+.page-header .project-name,
+.page-header .project-tagline {
+  display: none !important;
 }
+
+/* Use the Cayman header background for your own content */
+.page-header {
+  background-color: #0b3d91 !important;
+  padding: 3rem 1rem;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+
+/* Add your custom content inside the existing header */
+.page-header::after {
+  content: "";
+}
+
+/* Use a pseudo-element replacement via JS if you prefer — see below */
+
 
 /* Flexbox layout for image and text */
 .header-content {
