@@ -1,0 +1,14 @@
+title: "Jack Suorsa"
+description: "Software Developer | Computer Science @ BYU | Networking & Systems Enthusiast"
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Optional social links
+github:
+  username: jacksuorsa  # replace with your actual GitHub username
+linkedin:
+  username: your-linkedin-username  # replace with your LinkedIn handle
+
+# Site settings
+google_analytics: # (optional tracking ID, e.g. G-XXXXXXXXXX)
+markdown: kramdown
