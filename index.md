@@ -1,4 +1,11 @@
 <link rel="stylesheet" href="style.css">
+<div class="header-content">
+  <img src="me.JPG" alt="Jack Suorsa" class="profile-pic">
+  <div class="header-text">
+    <h1>👋 Hi, I'm Jack Suorsa</h1>
+    <p>Computer Science Student at Brigham Young University (Class of 2026)</p>
+  </div>
+</div>
 
 
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com)  
