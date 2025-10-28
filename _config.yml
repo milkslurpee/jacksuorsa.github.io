@@ -1,7 +1,6 @@
 # Site Info
 include: ["style.css"]
 
-title: "👋 Hi, I'm Jack Suorsa"  # leave blank so the theme doesn't repeat your name
 theme: jekyll-theme-cayman
 show_downloads: false
 
