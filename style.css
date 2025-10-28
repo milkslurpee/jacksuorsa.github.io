@@ -1,8 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
 /* === Custom inline header layout === */
 .page-header {
   position: relative;
@@ -19,7 +14,7 @@
 .page-header::before {
   content: "";
   display: block;
-  background-image: url("{{ '/me.JPG' | relative_url }}");
+  background-image: url("me.JPG");
   background-size: cover;
   background-position: center;
   width: 110px;
