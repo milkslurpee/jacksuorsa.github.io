@@ -13,6 +13,3 @@ linkedin:
 # Site settings
 google_analytics:  # optional, e.g., G-XXXXXXXXXX
 markdown: kramdown
-
-sass:
-  style: compressed
