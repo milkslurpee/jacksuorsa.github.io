@@ -1,25 +1,5 @@
 <link rel="stylesheet" href="style.css">
 
-<header class="custom-header">
-  <div class="header-content">
-    <img src="me.JPG" alt="Jack Suorsa" class="profile-pic">
-    <div class="header-text">
-      <h1>👋 Hi, I'm Jack Suorsa</h1>
-      <p>📍 Provo, UT | 💻 Software Developer | 🎓 CS Student @ BYU</p>
-    </div>
-  </div>
-  <div class="header-badges">
-    <a href="mailto:johnsuorsa@gmail.com">
-      <img src="https://img.shields.io/badge/Email-johnsuorsa%40gmail.com-red?logo=gmail">
-    </a>
-    <a href="https://linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
-    </a>
-    <a href="https://github.com/">
-      <img src="https://img.shields.io/badge/GitHub-jacksuorsa-black?logo=github">
-    </a>
-  </div>
-</header>
 
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com)  
 🎓 **Computer Science Student at Brigham Young University (Class of 2026)**  
