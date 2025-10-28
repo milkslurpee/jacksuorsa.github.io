@@ -1,6 +1,6 @@
-/* --- Custom Blue Cayman Header --- */
+/* Inject header-content inside Cayman header */
 .page-header {
-  background-color: #0b3d91 !important; /* custom blue */
+  background-color: #0b3d91 !important;
   padding: 3rem 1rem;
   text-align: center;
   color: white;
@@ -10,13 +10,18 @@
   flex-direction: column;
 }
 
-/* Flex layout inside the header */
-.header-content {
+/* Move your custom header block inside the Cayman header visually */
+.page-header + .header-content {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 20px;
-  flex-wrap: wrap;
+  flex-direction: column;
+  color: white;
+  pointer-events: none;
 }
 
 /* Profile image */
@@ -28,26 +33,24 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-/* Text styles */
+/* Header text */
 .header-text h1 {
   margin: 0;
   font-size: 2rem;
   color: white;
 }
-
 .header-text p {
   margin: 0.3rem 0 0 0;
   font-size: 1rem;
   color: white;
 }
 
-/* Hide Cayman’s default title text */
-.project-name,
-.project-tagline {
+/* Hide Cayman’s default text */
+.project-name, .project-tagline {
   display: none !important;
 }
 
-/* Mobile responsiveness */
+/* Responsive */
 @media (max-width: 600px) {
   .header-content {
     flex-direction: column;
