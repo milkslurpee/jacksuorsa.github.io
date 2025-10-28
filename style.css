@@ -5,6 +5,11 @@
   color: white;
   text-align: center;
 }
+.project-name, .project-tagline {
+  color: white !important;
+  font-weight: normal;
+}
+
 
 /* Flexbox layout for header content */
 .header-content {
