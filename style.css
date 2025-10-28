@@ -6,8 +6,15 @@
   justify-content: center;
   gap: 1.5rem;
   flex-wrap: wrap;
-  text-align: left;
+  text-align: center;
   padding: 1.5rem;
+}
+
+/* Make the text stack vertically inside the header */
+.page-header .project-name,
+.page-header .project-tagline {
+  display: block;
+  width: 100%;
 }
 
 /* Add the image inline to the header */
