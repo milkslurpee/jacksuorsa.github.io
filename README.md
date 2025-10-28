@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Jack Suorsa  [!img](me.JPG)
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="me.JPG" alt="Jack Suorsa" style="width:100px; height:100px; border-radius:50%; object-fit:cover;">
+  <h1 style="margin:0;">👋 Hi, I'm Jack Suorsa</h1>
+</div>
+
 
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com)  
 🎓 **Computer Science Student at Brigham Young University (Class of 2026)**  
