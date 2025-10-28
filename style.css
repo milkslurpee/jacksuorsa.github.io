@@ -1,17 +1,16 @@
-/* Use your custom blue */
+/* --- Custom Blue Cayman Header --- */
 .page-header {
-  background-color: #0b3d91 !important;
+  background-color: #0b3d91 !important; /* custom blue */
   padding: 3rem 1rem;
-  color: white;
   text-align: center;
-}
-.project-name, .project-tagline {
-  color: white !important;
-  font-weight: normal;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
-
-/* Flexbox layout for header content */
+/* Flex layout inside the header */
 .header-content {
   display: flex;
   justify-content: center;
@@ -29,18 +28,26 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-/* Text in header */
+/* Text styles */
 .header-text h1 {
   margin: 0;
   font-size: 2rem;
+  color: white;
 }
 
 .header-text p {
   margin: 0.3rem 0 0 0;
   font-size: 1rem;
+  color: white;
 }
 
-/* Mobile responsive */
+/* Hide Cayman’s default title text */
+.project-name,
+.project-tagline {
+  display: none !important;
+}
+
+/* Mobile responsiveness */
 @media (max-width: 600px) {
   .header-content {
     flex-direction: column;
