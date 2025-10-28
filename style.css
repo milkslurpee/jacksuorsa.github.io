@@ -1,27 +1,12 @@
-/* Hide the default site title and tagline */
-.page-header .project-name,
-.page-header .project-tagline {
-  display: none !important;
-}
-
-/* Use the Cayman header background for your own content */
+/* Use your custom blue */
 .page-header {
   background-color: #0b3d91 !important;
   padding: 3rem 1rem;
   color: white;
   text-align: center;
-  position: relative;
 }
 
-/* Add your custom content inside the existing header */
-.page-header::after {
-  content: "";
-}
-
-/* Use a pseudo-element replacement via JS if you prefer — see below */
-
-
-/* Flexbox layout for image and text */
+/* Flexbox layout for header content */
 .header-content {
   display: flex;
   justify-content: center;
@@ -30,7 +15,7 @@
   flex-wrap: wrap;
 }
 
-/* Circular profile image */
+/* Profile image */
 .profile-pic {
   width: 120px;
   height: 120px;
