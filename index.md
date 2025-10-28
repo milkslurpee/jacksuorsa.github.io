@@ -84,9 +84,3 @@ React · Node.js · Docker · Nginx · Reverse Proxies · DNS Configuration
 ---
 
 © 2025 Jack Suorsa
-
-
-
-my picture is in the root directory and is called me.JPG. looking at this md file can you place it in a aesthetic position?
-
-© 2025 Jack Suorsa
