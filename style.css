@@ -1,36 +1,52 @@
-/* === Custom inline header layout === */
-.page-header {
-  position: relative;
+/* Custom blue header */
+.custom-header {
+  background-color: #0b3d91; /* Blue color */
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Flex container for image + text */
+.header-content {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 1.5rem;
+  gap: 20px;
   flex-wrap: wrap;
-  text-align: left;
-  padding: 1.5rem;
 }
 
-/* Add the image inline to the header */
-.page-header::before {
-  content: "";
-  display: block;
-  background-image: url("me.JPG");
-  background-size: cover;
-  background-position: center;
-  width: 110px;
-  height: 110px;
+/* Profile picture */
+.profile-pic {
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
-  flex-shrink: 0;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-/* Mobile-friendly layout */
-@media (max-width: 600px) {
-  .page-header {
-    flex-direction: column;
-  }
+/* Header text */
+.header-text h1 {
+  margin: 0;
+  font-size: 2rem;
+}
 
-  .page-header::before {
-    margin-bottom: 0.5rem;
+.header-text p {
+  margin: 0.3rem 0 0 0;
+  font-size: 1rem;
+}
+
+/* Badge container */
+.header-badges {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+/* Make it responsive */
+@media (max-width: 600px) {
+  .header-content {
+    flex-direction: column;
+    gap: 10px;
   }
 }
