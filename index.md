@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-<div class="custom-header">
+<div class="page-header">
   <div class="header-content">
     <img src="me.JPG" alt="Jack Suorsa" class="profile-pic">
     <div class="header-text">
