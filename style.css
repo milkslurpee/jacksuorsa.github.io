@@ -6,13 +6,21 @@
   justify-content: center;
   gap: 1.5rem;
   flex-wrap: wrap;
-  text-align: center;
   padding: 1.5rem;
+  text-align: left; /* looks cleaner next to image */
 }
 
-/* Make the text stack vertically inside the header */
+/* Create a virtual wrapper for the text */
 .page-header .project-name,
 .page-header .project-tagline {
+  flex-basis: 100%;
+  text-align: left;
+  margin: 0;
+}
+
+/* This makes the text elements behave like a vertical group */
+.page-header h1,
+.page-header h2 {
   display: block;
   width: 100%;
 }
@@ -31,13 +39,19 @@
   flex-shrink: 0;
 }
 
-/* Mobile-friendly layout */
+/* Stack everything on mobile */
 @media (max-width: 600px) {
   .page-header {
     flex-direction: column;
+    text-align: center;
   }
 
   .page-header::before {
     margin-bottom: 0.5rem;
+  }
+
+  .page-header .project-name,
+  .page-header .project-tagline {
+    text-align: center;
   }
 }
