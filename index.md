@@ -1,12 +1,22 @@
+---
+title: "Jack Suorsa"
+description: ""
+theme: jekyll-theme-cayman
+show_downloads: false
+---
+
 <link rel="stylesheet" href="style.css">
-<div class="header-content">
-  <img src="me.JPG" alt="Jack Suorsa" class="profile-pic">
-  <div class="header-text">
-    <h1>👋 Hi, I'm Jack Suorsa</h1>
-    <p>Computer Science Student at Brigham Young University (Class of 2026)</p>
+
+<!-- 🌟 Custom Blue Header (inside Cayman header) -->
+<div class="page-header">
+  <div class="header-content">
+    <img src="me.JPG" alt="Jack Suorsa" class="profile-pic">
+    <div class="header-text">
+      <h1>👋 Hi, I'm Jack Suorsa</h1>
+      <p>Computer Science Student at Brigham Young University (Class of 2026)</p>
+    </div>
   </div>
 </div>
-
 
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com)  
 🎓 **Computer Science Student at Brigham Young University (Class of 2026)**  
