@@ -1,9 +1,5 @@
 <link rel="stylesheet" href="style.css">
 
-<p align="center">
-  <img src="me.JPG" alt="Jack Suorsa" width="180" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.3); margin-top: 20px;" />
-</p>
-
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com)  
 🎓 **Computer Science Student at Brigham Young University (Class of 2026)**  
 💻 **Software Developer | Network & Systems Enthusiast | Professional Nerd**
