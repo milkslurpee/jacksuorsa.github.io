@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="me.jpg" alt="Jack Suorsa" style="width:100px; height:100px; border-radius:50%;">
-  <h1>👋 Hi, I'm Jack Suorsa</h1>
+<div style="display: flex; align-items: center; gap: 20px; justify-content: center; margin-bottom: 20px;">
+  <img src="me.JPG" alt="Jack Suorsa" style="width:100px; height:100px; border-radius:50%; object-fit:cover;">
+  <h1 style="margin:0;">👋 Hi, I'm Jack Suorsa</h1>
 </div>
 
 
