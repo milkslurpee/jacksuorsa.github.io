@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Jack Suorsa
-
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com)  
 🎓 **Computer Science Student at Brigham Young University (Class of 2026)**  
 💻 **Software Developer | Network & Systems Enthusiast | Professional Nerd**
