@@ -1,4 +1,8 @@
 <link rel="stylesheet" href="style.css">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="images/profile.jpg" alt="Jack Suorsa" style="width:100px; height:100px; border-radius:50%;">
+  <h1>👋 Hi, I'm Jack Suorsa</h1>
+</div>
 
 
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com)  
