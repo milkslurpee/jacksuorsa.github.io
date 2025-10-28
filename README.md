@@ -2,7 +2,7 @@
 
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com) | 📞 559-756-3556  
 🎓 **Computer Science Student at Brigham Young University (Class of 2026)**  
-💻 **Software Developer | Network & Systems Enthusiast | Professional Nerd
+💻 **Software Developer | Network & Systems Enthusiast | Professional Nerd**
 
 ---
 
