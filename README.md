@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jack Suorsa
+# 👋 Hi, I'm Jack Suorsa  [!img](me.JPG)
 
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com)  
 🎓 **Computer Science Student at Brigham Young University (Class of 2026)**  
