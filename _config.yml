@@ -1,4 +1,6 @@
 # Site Info
+include: ["style.css"]
+
 title: "👋 Hi, I'm Jack Suorsa"  # leave blank so the theme doesn't repeat your name
 description: "Software Developer | Computer Science @ BYU | Networking & Systems Enthusiast"
 theme: jekyll-theme-cayman
