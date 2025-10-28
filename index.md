@@ -1,6 +1,15 @@
+<!-- Header with profile picture and name -->
+<div style="display: flex; align-items: center; gap: 20px; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="me.JPG" alt="Jack Suorsa" style="width:120px; height:120px; border-radius:50%; object-fit: cover; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h1 style="margin:0;">👋 Hi, I'm Jack Suorsa</h1>
+</div>
+
+<!-- Contact Info -->
+<p align="center">
 📍 Provo, UT | 📧 [johnsuorsa@gmail.com](mailto:johnsuorsa@gmail.com)  
-🎓 **Computer Science Student at Brigham Young University (Class of 2026)**  
-💻 **Software Developer | Network & Systems Enthusiast | Professional Nerd**
+🎓 <strong>Computer Science Student at Brigham Young University (Class of 2026)</strong>  
+💻 Software Developer | Network & Systems Enthusiast | Professional Nerd
+</p>
 
 ---
 
@@ -32,8 +41,8 @@ React · Node.js · Docker · Nginx · Reverse Proxies · DNS Configuration
 **BYU Coursework & Projects (Sept 2020 – Apr 2026)**  
 - Developed multiple projects using **C++, Python, Java, and JavaScript**  
 - Built full-stack web applications with **React** and **Node.js**  
-  - Example: [Sweet Tooth](https://clinquant-dieffenbachia-fc06cc.netlify.app/)
-  - Example: [Pirates of the Cul-de-sac](https://startup.piratesoftheculdesac.click/)
+  - Example: [Sweet Tooth](https://clinquant-dieffenbachia-fc06cc.netlify.app/)  
+  - Example: [Pirates of the Cul-de-sac](https://startup.piratesoftheculdesac.click/)  
 - Collaborated on group projects emphasizing clean code, documentation, and version control with **Git**
 
 ---
@@ -77,10 +86,15 @@ React · Node.js · Docker · Nginx · Reverse Proxies · DNS Configuration
 
 ### 📫 Connect with Me
 
+<p align="center">
 [![Email](https://img.shields.io/badge/Email-johnsuorsa%40gmail.com-red?logo=gmail)](mailto:johnsuorsa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-jacksuorsa-black?logo=github)](https://github.com/)
+</p>
 
 ---
+
+© 2025 Jack Suorsa
+
 
 © 2025 Jack Suorsa
