@@ -11,7 +11,7 @@
 I’m a Computer Science major at **Brigham Young University**, passionate about software development, networking, and system design.  
 I love solving complex problems, collaborating on team projects, and building efficient systems — from full-stack web apps to Docker-based home server setups.
 
-When I’m not coding, you can find me **backpacking, swimming, or gaming**. I’m also a lifelong **Dodgers fan** and fluent in **Spanish**, with conversational experience in **Haitian Creole**.
+When I’m not coding, you can find me **backpacking, swimming, skiing, or gaming**. I’m a lifelong **Dodgers fan** and fluent in **Spanish**.
 
 ---
 
