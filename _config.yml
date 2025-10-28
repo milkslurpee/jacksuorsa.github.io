@@ -1,14 +1,15 @@
-title: "👋 Hi, I'm Jack Suorsa"
+# Site Info
+title: ""  # leave blank so the theme doesn't repeat your name
 description: "Software Developer | Computer Science @ BYU | Networking & Systems Enthusiast"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 show_downloads: false
 
-# Optional social links
+# Optional social links (for GitHub Pages theme features)
 github:
-  username: jacksuorsa  # replace with your actual GitHub username
+  username: jacksuorsa
 linkedin:
   username: your-linkedin-username  # replace with your LinkedIn handle
 
 # Site settings
-google_analytics: # (optional tracking ID, e.g. G-XXXXXXXXXX)
+google_analytics:  # optional, e.g., G-XXXXXXXXXX
 markdown: kramdown
